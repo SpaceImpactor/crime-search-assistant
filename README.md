@@ -1,6 +1,6 @@
 ## Crime Search Assistant
 
-[Crime Search Assistant](https://crime-search-assistant.000webhostapp.com) is a web based project which aims in helping a crime to be solved in a faster and simpler way.
+[Crime Search Assistant](https://crime-search-assistant.000webhostapp.com) is a PHP based web project which aims in helping a crime to be solved in a faster and simpler way.
 
 • It displays the criminal records according to the type of crime in a particular location.
 
